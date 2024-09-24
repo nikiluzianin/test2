@@ -8,3 +8,8 @@
 6.3 git push origin main
 7. changed somthing in index.html in remote
 8. changed something in index.html in local
+9. tried to push - did not work
+10. pulled the repo
+11. merged the files with git config.pull rebase false (.rebase true for rebase, .ff only for fast forward only)
+12. commited the change
+13. pushed to remote
