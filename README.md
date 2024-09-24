@@ -6,3 +6,5 @@
 6.1 git add .
 6.2 git commit -m "message"
 6.3 git push origin main
+7. changed somthing in index.html in remote
+8. changed something in index.html in local
